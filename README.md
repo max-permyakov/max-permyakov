@@ -1,4 +1,5 @@
-<h1 align="center">⚡ Massimo / begginer coder </h1>
+<h1 align="center">⚡ Massimo  </h1>
+<h3 align="center"> C# ASP .NET developer</h3>
 
 ###
 
@@ -40,9 +41,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=max-permyakov&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
+
 
 ###
 
